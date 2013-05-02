@@ -1,0 +1,13 @@
+Ruby script that takes a directory containing GoogleTracks kml files and:
+1) Presents a 'start' date (the earliest date contained in the kml files)
+2) Presents a 'end' date (the latest date contained in the kml files)
+3) Presents a Summary of activities:
+    3a) Total Number of Activities
+    3b) Total Miles
+    3c) Average Total Pace
+    3d) Total Number of Walks (also show percentage of walks in total activities)
+    3e) Miles Walked
+    3f) Walking Pace
+    3g) Total Number of Runs (also show percentage of walks in total activities)
+    3h) Miles Ran
+    3i) Running Pace
